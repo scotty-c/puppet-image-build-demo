@@ -1,0 +1,2 @@
+image_name: puppet/golang
+env: PATH=/usr/local/go/bin:$PATH
